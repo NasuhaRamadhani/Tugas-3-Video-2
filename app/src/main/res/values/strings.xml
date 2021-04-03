@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppMob</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Developer">Developer</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="SignIn">signin</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="silahkan_login">SILAHKAN LOGIN!!</string>
+    <string name="img_logo">logo</string>
+</resources>
